@@ -51,5 +51,5 @@ Users should be able to:
 
 ## Acknowledgments
 
-I want to give thanks to God Almighty for giving me the wisdom and understansding to come this far. All glory and adoration to you Jesus.
+I want to give thanks to God Almighty for giving me the wisdom and understanding to come this far. All glory and adoration to you Jesus.
 
